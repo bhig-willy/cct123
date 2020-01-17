@@ -1,0 +1,26 @@
+/* styles */
+/* called by your view template */
+
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+text-align:center
+}
+
+h1 {
+  font-style: normal;
+  color: blue;
+text-align: center;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+p {
+  text-align: center
+  ;
+  max-width: 600px;
+}
+
